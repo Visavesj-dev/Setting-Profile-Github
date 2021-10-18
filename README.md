@@ -1,8 +1,10 @@
-### Hi there, I'm Visavesj Chiangsan - ICE👋
+<h1 align="center">Hi there, I'm Visavesj Chiangsan - ICE 👋</h1>
 
 [![Website](https://img.shields.io/website?label=visavesj.info&style=for-the-badge&url=https%3A%2F%2Fvisavesj.info)](https://visavesj.info)
 
-## I'm a Software Engineer, FrontEnd and Baby Full-Stack Developer
+[![Visavesj's github stats](https://github-readme-stats.vercel.app/api?username=Visavesj-dev&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+## I'm a Software Engineer, Front-End and Baby Full-Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m fast learner and alway find passion for my development
