@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visavesj-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## I'm a Software Engineer, Front-End and Baby Full-Stack Developer
+## I'm a Junior Software Engineer, Front-End and Junior Full-Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m fast learner and always find passion about development
