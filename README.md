@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Visavesj Chiangsan - ICE 👋</h1>
+<h1 align="center">Hi Guys, I'm Visavesj Chiangsan - ICE 👋</h1>
 
 [![Website](https://img.shields.io/website?label=visavesj.info&style=for-the-badge&url=https%3A%2F%2Fvisavesj.info)](https://visavesj.info)
 
-[![Visavesj's github stats](https://github-readme-stats.vercel.app/api?username=Visavesj-dev&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![Visavesj's GitHub stats](https://github-readme-stats.vercel.app/api?username=visavesj-dev&show_icons=true&theme=radical)
 
 ## I'm a Software Engineer, Front-End and Baby Full-Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m fast learner and alway find passion for my development
-- ⚡ Fun fact: I love to talk with people and play piano / drums
+- 👯 I’m fast learner and always find passion about development
+- ⚡ Fun fact: I love to talk with people and play piano / ukulele
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
